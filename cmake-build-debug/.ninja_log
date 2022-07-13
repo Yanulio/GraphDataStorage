@@ -1,0 +1,12 @@
+# ninja log v5
+5	1482	6743381984066492	CMakeFiles/GraphData.dir/DataInputAndOutput.cpp.obj	e1181c71cb70492b
+3	1720	6743370348242993	CMakeFiles/GraphData.dir/main.cpp.obj	e605a0fd1a0908a4
+1483	2112	6743381990370980	GraphData.exe	caafaef523aecfb9
+38	1621	6743370346922057	CMakeFiles/GraphData.dir/GraphStruct.cpp.obj	9ddf89f313374405
+14	1828	6743370349323760	CMakeFiles/GraphData.dir/DataConverter.cpp.obj	2851073c87da1875
+1	300	6743469207529143	build.ninja	1073e392ef063703
+64	4711	6743469510725273	CMakeFiles/GraphData.dir/GraphStruct.cpp.obj	9ddf89f313374405
+4	4821	6743469511735985	CMakeFiles/GraphData.dir/main.cpp.obj	e605a0fd1a0908a4
+21	5001	6743469513647344	CMakeFiles/GraphData.dir/DataConverter.cpp.obj	2851073c87da1875
+37	5125	6743469514848203	CMakeFiles/GraphData.dir/DataInputAndOutput.cpp.obj	e1181c71cb70492b
+5125	6187	6743469523454347	GraphData.exe	caafaef523aecfb9
