@@ -65,6 +65,9 @@ std::vector<std::vector<int>> ConvertListOfArcsToMatrix(const std::vector<std::v
         if (i[0] > numberOfVertices) {
             numberOfVertices = i[0];
         }
+        if (i[1] > numberOfVertices) {
+            numberOfVertices = i[1];
+        }
     }
     std::vector<std::vector<int>> newMatrix(numberOfVertices, std::vector<int>(numberOfVertices));
     for (const auto & i : matrix) {
